@@ -1,0 +1,9 @@
+dollar:
+  name: '$'
+  link: 'https://investing.com/currencies/usd-rub'
+  between: ['<span class="text-2xl" data-test="instrument-price-last">', '</span>']
+
+euro:
+  name: '€'
+  link: 'https://investing.com/currencies/eur-rub'
+  between: ['<span class="text-2xl" data-test="instrument-price-last">', '</span>']

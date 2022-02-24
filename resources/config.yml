@@ -1,0 +1,18 @@
+# -{ Settings }-
+
+chat_id: '@ExchangeRatesM'
+message_id: 3
+
+update_delay: 10  # In seconds
+timeout_delay: 300  # Delay if IP was temporary blocked
+
+time_delta: 7200  # In seconds, this delta counts in title
+
+# -{ Messages }-
+
+unknown_command: 'Unknown command!'
+usage: 'Usage: `%s`'
+
+title: 'Exchange rates at *%s MSK*:'
+line: '• **`1%s`** = `%s₽`'
+line_with_previous: '• **`1%s`** = `%s₽` %s `(%.2f)`'

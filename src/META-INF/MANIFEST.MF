@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: TelegramUtilsM.jar
+Main-Class: ru.leonidm.exchange_rates.Main
+
